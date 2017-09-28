@@ -1,11 +1,11 @@
 # bioinfo-scripts
-various scripts built for my bioinformatics experiments
+This repository contains various scripts I have used for bioinformatics experiments.
 
 # orf_report.pl
 for each DNA sequence, print the longest ORF
 
 # randnuc.pl
-generates a random DNA sequence based on a first-order Markov model
+generates a random DNA sequence based on a first-order Markov model (example input files: nprob.txt, dnprob.txt)
 
 # vcf_substitute.pl
 substitute reference positions in a genome assembly for variants
